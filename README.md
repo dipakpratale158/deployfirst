@@ -1,7 +1,11 @@
 # Expenses Tracker
+https://github.com/dipakpratale158/deployfirst/assets/112299138/bc1ea186-93c0-46dc-ac4c-233651eb68ce
 
 ## Introduction
-Expenses Tracker is a full-stack web application developed using Node.js and MySQL. It provides users with the ability to track and manage their expenses in a convenient and organized manner. The application includes features such as user authentication (signup, login, forget password), a payment interface with Razorpay integration, and an API implementation for seamless communication between the frontend and backend. The project also utilizes ORM Sequelize for database querying, pagination for efficient data handling, and Bootstrap for a visually appealing user interface.
+Expenses Tracker is a full-stack web application developed using Node.js and MySQL. It provides users with the ability to track and manage their expenses in a convenient and organized manner. The application includes features such as![canjwel](
+https://github.com/dipakpratale158/deployfirst/assets/112299138/bc1ea186-93c0-46dc-ac4c-233651eb68ce
+)
+ user authentication (signup, login, forget password), a payment interface with Razorpay integration, and an API implementation for seamless communication between the frontend and backend. The project also utilizes ORM Sequelize for database querying, pagination for efficient data handling, and Bootstrap for a visually appealing user interface.
 
 ## Features
 - User Authentication:
