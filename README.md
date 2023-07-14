@@ -14,7 +14,6 @@ download links
 ![et6](https://github.com/dipakpratale158/deployfirst/assets/112299138/69618bf2-227c-457b-aa5b-2f2302068e94)
 
 # Expenses Tracker
-https://github.com/dipakpratale158/deployfirst/assets/112299138/bc1ea186-93c0-46dc-ac4c-233651eb68ce
 
 ## Introduction
 Expenses Tracker is a full-stack web application developed using Node.js and MySQL. It provides users with the ability to track and manage their expenses in a convenient and organized manner. The application includes features such as![canjwel](
